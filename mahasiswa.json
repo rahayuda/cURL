@@ -3698,5 +3698,25 @@
         "perangkat": null,
         "ip": null,
         "waktu": "2023-05-09 11:33:21"
+    },
+    {
+        "id": "4823",
+        "nim": "1004051410",
+        "nama": "Bayu",
+        "kuliah": null,
+        "alamat": "bayu@gmail.com",
+        "perangkat": null,
+        "ip": null,
+        "waktu": "2023-05-09 11:33:21"
+    },
+    {
+        "id": "4824",
+        "nim": "1007051410",
+        "nama": "Topan",
+        "kuliah": null,
+        "alamat": "topan@gmail.com",
+        "perangkat": null,
+        "ip": null,
+        "waktu": "2023-05-09 11:33:21"
     }
 ]
