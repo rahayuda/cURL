@@ -3718,5 +3718,15 @@
         "perangkat": null,
         "ip": null,
         "waktu": "2023-05-09 11:33:21"
+    },
+    {
+        "id": "4825",
+        "nim": "1007051411",
+        "nama": "Dani",
+        "kuliah": null,
+        "alamat": "dani@gmail.com",
+        "perangkat": null,
+        "ip": null,
+        "waktu": "2023-05-09 11:33:21"
     }
 ]
