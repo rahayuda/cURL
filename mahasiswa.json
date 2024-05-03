@@ -3728,5 +3728,15 @@
         "perangkat": null,
         "ip": null,
         "waktu": "2023-05-09 11:33:21"
+    },
+    {
+        "id": "4826",
+        "nim": "1008051412",
+        "nama": "John Doe",
+        "kuliah": null,
+        "alamat": "john@gmail.com",
+        "perangkat": null,
+        "ip": null,
+        "waktu": "2024-05-09 11:33:21"
     }
 ]
