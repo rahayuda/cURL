@@ -3748,5 +3748,15 @@
         "perangkat": null,
         "ip": null,
         "waktu": "2024-05-08 11:33:21"
+    },
+    {
+        "id": "4828",
+        "nim": "1008051433",
+        "nama": "Adi Putrawan",
+        "kuliah": null,
+        "alamat": "adi_putrawan@gmail.com",
+        "perangkat": null,
+        "ip": null,
+        "waktu": "2024-05-08 20:33:21"
     }
 ]
