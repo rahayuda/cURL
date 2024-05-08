@@ -3738,5 +3738,15 @@
         "perangkat": null,
         "ip": null,
         "waktu": "2024-05-09 11:33:21"
+    },
+    {
+        "id": "4827",
+        "nim": "1008051413",
+        "nama": "Farhan",
+        "kuliah": null,
+        "alamat": "farhan@gmail.com",
+        "perangkat": null,
+        "ip": null,
+        "waktu": "2024-05-08 11:33:21"
     }
 ]
